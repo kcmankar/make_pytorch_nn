@@ -1,4 +1,4 @@
-# pytorch_cnn_coil20
+# CNN in pytorch 
 This repository contains the code for making a covolutional neural network in pytroch to classify the images in coil20 dataset.
 The dataset is available at <code>http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php</code>
 <p>The data contains different images of 20 objects at various angles.</p>
